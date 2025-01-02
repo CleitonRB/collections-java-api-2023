@@ -1,3 +1,7 @@
+# Collections java
+
+Este projeto estou replicando do curso conhecendo collections java, a partir da plataforma DIO | Santander 2024 - Backend com Java
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
