@@ -1,10 +1,14 @@
 package main.java.list.operacoesbasicas;
 
-public class Tarefas {
+public class Tarefa {
     //atributo
     private String descricao;
 
-    public Tarefas(String descricao) {
+    public Tarefa(String descricao) {
         this.descricao = descricao;
+    }
+
+    public String getDescricao(){
+        return descricao;
     }
 }
