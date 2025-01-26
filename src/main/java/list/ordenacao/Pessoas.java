@@ -5,10 +5,10 @@ import java.util.List;
 
 public class Pessoas {
 
-    private List<Pessoas> pessoasList;
+    private List<OrdenacaoPessoas> ordenacaoPessoas;
 
     public Pessoas(){
-        this.pessoasList = new ArrayList<>();
+        this.ordenacaoPessoas = new ArrayList<>();
     }
 
     public void adicionarPessoa(String nome, int idade, double altura){
